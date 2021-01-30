@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: 47.110.240.237
+    port: 6379
+
+netty:
+  port: 9000

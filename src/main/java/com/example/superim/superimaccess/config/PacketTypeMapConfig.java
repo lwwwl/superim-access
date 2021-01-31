@@ -1,8 +1,8 @@
 package com.example.superim.superimaccess.config;
 
-import com.example.nettyserver.netty.annotations.TransmissionPacket;
-import com.example.nettyserver.netty.enums.PacketTypeEnum;
-import com.example.nettyserver.netty.protocol.Packet;
+import com.example.superim.superimaccess.annotations.TransmissionPacket;
+import com.example.superim.superimaccess.enums.PacketTypeEnum;
+import com.example.superim.superimaccess.protocol.Packet;
 import org.reflections.Reflections;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

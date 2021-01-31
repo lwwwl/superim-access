@@ -1,8 +1,8 @@
 package com.example.superim.superimaccess.config;
 
-import com.example.nettyserver.netty.annotations.PacketSerializer;
-import com.example.nettyserver.netty.enums.SerializerTypeEnum;
-import com.example.nettyserver.netty.serializer.Serializer;
+import com.example.superim.superimaccess.annotations.PacketSerializer;
+import com.example.superim.superimaccess.enums.SerializerTypeEnum;
+import com.example.superim.superimaccess.serializer.Serializer;
 import org.reflections.Reflections;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
